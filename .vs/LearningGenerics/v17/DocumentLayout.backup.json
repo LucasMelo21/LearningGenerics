@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|c:\\users\\lucas melo\\source\\repos\\learninggenerics\\learninggenerics\\services\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|solutionrelative:learninggenerics\\services\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|c:\\users\\lucas melo\\source\\repos\\learninggenerics\\learninggenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|solutionrelative:learninggenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|c:\\users\\lucas melo\\source\\repos\\learninggenerics\\learninggenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|solutionrelative:learninggenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|c:\\users\\lucas melo\\source\\repos\\learninggenerics\\learninggenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02168150-E113-4EE4-B9B1-E974C93269CE}|LearningGenerics\\LearningGenerics.csproj|solutionrelative:learninggenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PrintService.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Services\\PrintService.cs",
-              "RelativeDocumentMoniker": "LearningGenerics\\Services\\PrintService.cs",
-              "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Services\\PrintService.cs",
-              "RelativeToolTip": "LearningGenerics\\Services\\PrintService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "LearningGenerics\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "LearningGenerics\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:25:14.477Z",
+              "WhenOpened": "2025-05-14T14:17:53.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "LearningGenerics\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Services\\CalculationService.cs",
+              "RelativeToolTip": "LearningGenerics\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:59:32.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Program.cs",
               "RelativeDocumentMoniker": "LearningGenerics\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\LearningGenerics\\LearningGenerics\\Program.cs",
               "RelativeToolTip": "LearningGenerics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T12:12:33.45Z",
               "EditorCaption": ""
