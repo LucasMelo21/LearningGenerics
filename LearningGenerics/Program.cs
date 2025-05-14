@@ -4,7 +4,8 @@ using LearningGenerics.Services;
 namespace LearningGenerics {
     class Program {
         public static void Main(string[] args) {
-            PrintService print = new PrintService();
+            PrintService<int> print = new PrintService<int>();
+
             Console.Write("How many values? ");
             int values = int.Parse(Console.ReadLine());
 
@@ -13,6 +14,7 @@ namespace LearningGenerics {
                 int value = int.Parse(Console.ReadLine());
                 print.AddValue(value);
             }
+            print.Order();
             print.Print();
             Console.WriteLine("First: " + print.First());
         }

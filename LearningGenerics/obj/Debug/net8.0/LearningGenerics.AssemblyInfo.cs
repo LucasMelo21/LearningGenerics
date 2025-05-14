@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearningGenerics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f525c0cafbe3855729dad63aeb3fc0feffbb26c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearningGenerics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearningGenerics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

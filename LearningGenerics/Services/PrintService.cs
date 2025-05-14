@@ -1,18 +1,22 @@
 ﻿using System;
 
 namespace LearningGenerics.Services {
-    internal class PrintService {
+    internal class PrintService<T> where T : IComparable<T> {
 
-        private int[] _values = new int[10];
+        private T[] _values = new T[10];
         private int _count = 0;
-        public void AddValue(int value) {
+        public void AddValue(T value) {
             if (_count == 10) {
                 throw new InvalidOperationException("An error ocurred! Print Service is full!");
             }
             _values[_count] = value;
             _count++;
         }
-        public int First() {
+        public void Order() {
+            Array.Sort(_values, 0, _count, Comparer<T>.Create((x, y) => y.CompareTo(x)));
+        }
+        
+        public T First() {
             if (_count == 0) {
                 throw new InvalidOperationException("An error ocurred! Print Service is empty!");
             }
