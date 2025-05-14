@@ -1,0 +1,14 @@
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\bin\Debug\net8.0\LearningGenerics.exe
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\bin\Debug\net8.0\LearningGenerics.deps.json
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\bin\Debug\net8.0\LearningGenerics.runtimeconfig.json
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\bin\Debug\net8.0\LearningGenerics.dll
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\bin\Debug\net8.0\LearningGenerics.pdb
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.AssemblyInfoInputs.cache
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.AssemblyInfo.cs
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.dll
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\refint\LearningGenerics.dll
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.pdb
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\LearningGenerics.genruntimeconfig.cache
+C:\Users\Lucas Melo\source\repos\LearningGenerics\LearningGenerics\obj\Debug\net8.0\ref\LearningGenerics.dll
